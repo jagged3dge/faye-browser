@@ -5,7 +5,7 @@
     "☮ elf Pavlik ☮ <perpetual-tripper@wwelves.org>"
   ],
   "description": "Simple pub/sub messaging for the web",
-  "main": "include.js",
+  "main": "include.min.js",
   "keywords": [
     "pubsub",
     "realtime",
